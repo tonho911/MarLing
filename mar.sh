@@ -311,10 +311,6 @@ echo -e "Untuk data login dashboard Marzban:
 URL HTTPS : https://${domain}/dashboard 
 username  : ${userpanel}
 password  : ${passpanel}
--=================================-
-Jangan lupa join Channel & Grup Telegram saya juga di
-Telegram Channel: https://t.me/LingVPN
-Telegram Group: https://t.me/LingVPN_Group
 -=================================-" > /root/log-install.txt
 profile
 colorized_echo green "Script telah berhasil di install"
