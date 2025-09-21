@@ -117,7 +117,7 @@ echo "$domain" > /etc/data/domain
 domain=$(cat /etc/data/domain)
 
 #email
-read -rp "Masukkan Email anda: " danceby5555@gmail.com
+read -rp "Masukkan Email anda: " email
 
 #username
 while true; do
